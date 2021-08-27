@@ -6,9 +6,9 @@
 
 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/chioma-okechukwu), or [e-mail](chioma.o3762@gmail.com)
 
-😄 Pronouns: she/her
-
 ⚡ Fun fact: I've recently started my fitness journey 💪🏽
+
+😄 Pronouns: she/her
 
 <!--
 - 🔭 I’m currently working on ...
