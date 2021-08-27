@@ -1,6 +1,6 @@
 ### Hi, I'm Chioma 👋🏽 
 
-🔭 I’m currently working on my SWE techcnial interview preparation, and my upcoming web project
+🔭 I’m currently working on my SWE technical interview preparation, and my upcoming web project
 
 🌱 I’m currently learning more about UI/UX design, front-end development, and data science.  
 
