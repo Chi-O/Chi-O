@@ -1,10 +1,17 @@
-### Hi there 👋
+### Hi, I'm Chioma 👋🏽 
 
-<!--
-**Chi-O/Chi-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my SWE techcnial interview preparation, and my upcoming web project
+
+🌱 I’m currently learning more about UI/UX design, front-end development, and data science.  
+
+📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/chioma-okechukwu), or [e-mail](chioma.o3762@gmail.com)
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I've recently started my fitness journey 💪🏽
 
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
