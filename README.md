@@ -1,8 +1,8 @@
 ### Hi, I'm Chioma 👋🏽 
 
-🔭 I’m currently working on my SWE technical interview preparation, and my upcoming web project
+🔭 I’m currently working on my SWE technical interview preparation, and my upcoming web project!
 
-🌱 I’m currently learning more about UI/UX design, front-end development, and data science.  
+🌱 I’m currently learning more about UI/UX design, front-end development, and data science   
 
 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/chioma-okechukwu), or [e-mail](chioma.o3762@gmail.com)
 
