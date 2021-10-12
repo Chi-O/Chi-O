@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PodSpace (web project), and my technical interview prep**
 
-- 🌱 I’m currently learning **UI/UX design, front-end development in React, and sharpening my Pyhton skills**
+- 🌱 I’m currently learning **UI/UX design, front-end development in React, and sharpening my Python skills**
 
 - 📫 How to reach me **chioma.o3762@gmail.com**
 
