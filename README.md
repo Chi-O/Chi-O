@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chi-o&row=1&theme=dracula&margin-w=15" alt="chi-o" /></a> </p>
 
-- 🔭 I’m currently working on **PodSpace (web project), and my technical interview prep**
+- 🔭 I’m currently working on **PodSpace 🚀 (web project), and my technical interview prep**
 
 - 🌱 I’m currently learning **UI/UX design, front-end development in React, and sharpening my Python skills**
 
